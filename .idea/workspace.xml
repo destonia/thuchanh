@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7a6bdd2-e20d-4515-93c6-cc033e77ae3c" name="Default Changelist" comment="" />
+    <list default="true" id="e7a6bdd2-e20d-4515-93c6-cc033e77ae3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/timkiem.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608556785542</updated>
       <workItem from="1608556786647" duration="1751000" />
+      <workItem from="1608558794781" duration="315000" />
     </task>
     <servers />
   </component>
@@ -56,5 +59,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
